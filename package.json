@@ -1,0 +1,19 @@
+{
+  "name": "project-api-rest-node-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedesjunior/project-api-rest-node-mysql.git"
+  },
+  "author": "Joedes Souza de Freitas Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedesjunior/project-api-rest-node-mysql/issues"
+  },
+  "homepage": "https://github.com/joedesjunior/project-api-rest-node-mysql#readme"
+}
